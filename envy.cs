@@ -239,7 +239,9 @@ internal class envy{
                                 }
                                 catch(Exception e){
                                     Console.WriteLine($"[Без прокси] {url} - Общая ошибка: {e.Message}");
-                                }
+                                }DFSFSDF
+                                
         }
     }
 }
+
